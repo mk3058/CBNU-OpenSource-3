@@ -19,5 +19,12 @@
 ## 💻 How to Run
 
 ```
-작성 예정
+1. Get a clone of this repo
+    git clone https://github.com/mk3058/CBNU-OpenSource-3.git
+    
+2. set the API key inside the application.properties file
+    bus.api.key=### YOUR API KEY ###
+    google.map.api.key=### YOUR API KEY ###
+    
+2. run the grade project
 ```
